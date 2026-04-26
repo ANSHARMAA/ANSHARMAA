@@ -77,7 +77,7 @@
 * Full stack coaching platform
 * Modern UI with React + Tailwind
 
-👉 (Add your repo link here)
+👉 www.prajapatiscienceclasses.com
 
 ---
 
