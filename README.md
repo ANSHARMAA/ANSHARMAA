@@ -11,7 +11,7 @@
 * 🚀 Full Stack + AI/ML Developer
 * ⚡ I focus on building real-world systems, not just tutorials
 * 🎯 Goal: Become an industry-level engineer
-* 💡 “I don’t just write code — I build systems that solve real problems.”
+* 💡 I don’t just write code — I build systems that solve real problems.
 
 
 ---
